@@ -64,9 +64,7 @@ public class ListDepo {
 	public void printReport(String fileName){	
 		try{
 			PrintStream outF = new PrintStream(fileName);
-			/*
-					outF.format("#" + "\tBank name" + "\tDeposit Id" + "\tMaturity dat" + "\tDeposit sum" + "\tCalculated intersts" + "\n");
-			*/		
+		
 			for (int i = 0; i != list.size(); ++i){
 				outF.format(i+1 + " " + list.get(i).toString());
 				outF.println(" ");
