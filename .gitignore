@@ -50,3 +50,17 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+DepoReport.txt
+src/examApplication/src/DDB/log/README_DO_NOT_TOUCH_FILES.txt
+src/examApplication/src/DDB/README_DO_NOT_TOUCH_FILES.txt
+Test3.doc
+src/examApplication/src/DDB/seg0/README_DO_NOT_TOUCH_FILES.txt
+src/examApplication/src/Exam/createAndFillDatabase
+Properties.txt
+derby.log
+src/examApplication/src/DDB/log/log.ctrl
+*.dat
+src/examApplication/src/DDB/log/logmirror.ctrl
+src/examApplication/src/DDB/service.properties
+.project
+.classpath
